@@ -1,11 +1,11 @@
 name: RepairRenameUI
+main: ibrahim\RepairRenameUI\Main
 api: 3.0.0
 version: 1.0.2
 author: IbrahimMS13
-main: ibrahim\RepairRenameUI\Main
 depend:
  - EconomyAPI
 
 commands:
  rr:
-  description: "Open RepairRenameUI"
+  description: "RepairRenameUI"
