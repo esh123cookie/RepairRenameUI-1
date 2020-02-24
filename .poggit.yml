@@ -1,0 +1,9 @@
+--- # Poggit-CI Manifest. Open the CI at https://poggit.pmmp.io/ci/BlueCat762/RepairRenameUI
+build-by-default: true
+branches:
+- master
+projects:
+  RepairRenameUI:
+    path: ""
+    icon: "resources/69769.png"
+...
