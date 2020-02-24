@@ -1,8 +1,8 @@
 name: RepairRenameUI
 api: 3.0.0
-main: ibrahim\RepairRenameUI\Main
 version: 1.0.2
 author: IbrahimMS13
+main: ibrahim\RepairRenameUI\Main
 depend:
  - EconomyAPI
 
