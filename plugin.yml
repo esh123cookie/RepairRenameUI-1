@@ -1,11 +1,10 @@
 name: RepairRenameUI
-main: ibrahim\RepairRenameUI\Main
 api: 3.0.0
+main: ibrahim\RepairRenameUI\Main
 version: 1.0.2
-author: [IbrahimMS13, BlueCat]
+author: IbrahimMS13
 depend:
  - EconomyAPI
- - FormAPI
 
 commands:
  rr:
