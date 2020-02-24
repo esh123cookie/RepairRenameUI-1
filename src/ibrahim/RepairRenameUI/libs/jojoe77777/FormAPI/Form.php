@@ -7,15 +7,18 @@ namespace ibrahim\RepairRenameUI\libs\jojoe77777\FormAPI;
 use pocketmine\form\Form as IForm;
 use pocketmine\Player;
 
+use pocketmine\form\Form as IForm;
+use pocketmine\Player;
+
 abstract class Form implements IForm{
 
     /** @var array */
     protected $data = [];
-    /** @var callable|null */
+    /** @var callable */
     private $callable;
 
     /**
-     * @param callable|null $callable
+     * @param callable $callable
      */
     public function __construct(?callable $callable) {
         $this->callable = $callable;
