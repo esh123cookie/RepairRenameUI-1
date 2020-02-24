@@ -2,7 +2,7 @@
 
 declare(strict_types = 1);
 
-namespace jojoe77777\FormAPI;
+namespace ibrahim\RepairRenameUI\libs\jojoe77777\FormAPI;
 
 class SimpleForm extends Form {
 
