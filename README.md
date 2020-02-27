@@ -2,9 +2,6 @@
 
 ## For PMMP
 
-[![](https://poggit.pmmp.io/shield.state/RepairRenameUI)](https://poggit.pmmp.io/p/RepairRenameUI)
-<a href="https://poggit.pmmp.io/p/RepairRenameUI"><img src="https://poggit.pmmp.io/shield.state/RepairRenameUI"></a>
-
 ## Download
 | Version | zip | phar |
 | --- | --- | --- |
