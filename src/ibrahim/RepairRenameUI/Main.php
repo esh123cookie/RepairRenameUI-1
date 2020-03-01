@@ -14,7 +14,7 @@ use pocketmine\Player;
 use pocketmine\Server;
 use pocketmine\utils\TextFormat as T;
 
-use ibrahim\RepairRenameUI\libs\jojoe77777\FormAPI\{SimpleForm, CustomForm};
+use jojoe77777\FormAPI\{SimpleForm, CustomForm};
 use onebone\economyapi\EconomyAPI;
 
 class Main extends PluginBase implements Listener {
